@@ -1,4 +1,4 @@
 # TP1 - Site de vente de parfums
 
-Patel, Krushik
+Patel, Krushik & 
 Elouadi, Mohamed Adam
