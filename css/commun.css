@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-    color: #ca6f1e;
-    border-color: #ca6f1e;
+    color: #ff7700;
+    border-color: #ff7700;
     transform: scale(1.1);
 }
